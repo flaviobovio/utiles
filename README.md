@@ -13,5 +13,6 @@ funcionesWebScraping.ipynb
 funcionesVarias.ipynb
 
 ##### es_cuit_cuil(Nro_CUIT_CUIL Int) -> Boolean
-* Devuelve True si es un CUIT o CUIL válido y False si no lo es.
+* Devuelve True si es un CUIT o CUIL válido y False si no lo es. CUIT (Clave única de identificación tributaria ARG, CUIL Clave única de identificación laboral ARG)
+
 * *Nota: Que sea válido no significa que exista, sólo que el dígito verificador concuerda con los demás valores, más info* https://es.wikipedia.org/wiki/Clave_%C3%9Anica_de_Identificaci%C3%B3n_Tributaria
